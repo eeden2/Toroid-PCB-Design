@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP C1210C105K1RACTM
-D SMD Comm X7R, Ceramic, 1 uF, 10%, 100 VDC, 250 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Class II, 2.5 % , 500 MOhms, 85 mg, 1210, 3.2mm, 2.5mm, 1.7mm, 0.5mm, 2000, 78  Weeks, 80
-K
-F https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf
-$ENDCMP
-#
-#End Doc Library
