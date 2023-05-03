@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 91R1A-R22-B15L
+D Bourns Cermet Potentiometer with a 6.35 mm Dia. Shaft 10k +/-20% 0.5W +/-1000ppm/C, Linear, Panel Mount
+K
+F https://www.bourns.com/docs/Product-Datasheets/91_95.pdf
+$ENDCMP
+#
+#End Doc Library

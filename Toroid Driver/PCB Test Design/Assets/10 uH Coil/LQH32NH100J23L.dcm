@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LQH32NH100J23L
+D LQH32NH_23 Series Inductor 10uH +/-5% 1210 (3225)
+K
+F https://psearch.en.murata.com/inductor/product/LQH32NH100J23%23.html
+$ENDCMP
+#
+#End Doc Library
