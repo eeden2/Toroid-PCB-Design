@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDA18N50
+D Trans MOSFET N-CH 500V 19A 3-Pin TO-3P
+K
+F https://componentsearchengine.com/Datasheets/1/FDA18N50.pdf
+$ENDCMP
+#
+#End Doc Library

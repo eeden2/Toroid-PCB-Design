@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=LQH32NH100J23L
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=4
+Version=3.2
+Released=2019-10-01 12:21:36
+Downloaded=2023-07-13 22:38:29
+3D=Y

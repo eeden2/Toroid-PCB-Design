@@ -1,0 +1,9 @@
+Manufacturer=AVX
+PartNumber=601030
+PartCategory=Variable Resistor
+PackageCategory=Other
+PinCount=3
+Version=1.2
+Released=2021-03-19 11:03:55
+Downloaded=2023-07-13 22:29:20
+3D=Y

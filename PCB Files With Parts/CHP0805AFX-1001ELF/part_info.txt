@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=CHP0805AFX-1001ELF
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2021-10-26 09:42:03
+Downloaded=2023-07-13 22:44:14
+3D=Y
