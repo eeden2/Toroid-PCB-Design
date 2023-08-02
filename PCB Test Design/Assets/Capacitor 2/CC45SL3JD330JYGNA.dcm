@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP CC45SL3JD330JYGNA
-D Disc Type Capacitors with Lead (High Voltage Ceramic Capacitors), Capacitance=33pF, DxT: 7.5x6mm ,F: 7.5mm
-K
-F https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/lead-disc/catalog/leaddisc_commercial_cc45_en.pdf
-$ENDCMP
-#
-#End Doc Library
