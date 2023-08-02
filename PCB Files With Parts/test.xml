@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/mrglade/Desktop/plasma toroid/test.kicad_sch</source>
+    <date>Fri 14 Jul 2023 12:31:51 PM CDT</date>
+    <tool>Eeschema 7.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>test.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100V 1uF</value>
+      <datasheet>https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf</datasheet>
+      <fields>
+        <field name="Manufacturer_Name">KEMET</field>
+        <field name="Manufacturer_Part_Number">C1210C105K1RACTM</field>
+        <field name="Mouser Part Number">80-C1210C105K1RACTM</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C1210C105K1RACTM?qs=gt1LBUVyoHkoe6sHAWmw2Q%3D%3D</field>
+      </fields>
+      <libsource lib="C1210" part="C1210C105K1RACTM" description="SMD Comm X7R, Ceramic, 1 uF, 10%, 100 VDC, 250 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Class II, 2.5 % , 500 MOhms, 85 mg, 1210, 3.2mm, 2.5mm, 1.7mm, 0.5mm, 2000, 78  Weeks, 80"/>
+      <property name="Height" value=""/>
+      <property name="Mouser Part Number" value="80-C1210C105K1RACTM"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/KEMET/C1210C105K1RACTM?qs=gt1LBUVyoHkoe6sHAWmw2Q%3D%3D"/>
+      <property name="Manufacturer_Name" value="KEMET"/>
+      <property name="Manufacturer_Part_Number" value="C1210C105K1RACTM"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="test.kicad_sch"/>
+      <property name="ki_description" value="SMD Comm X7R, Ceramic, 1 uF, 10%, 100 VDC, 250 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Class II, 2.5 % , 500 MOhms, 85 mg, 1210, 3.2mm, 2.5mm, 1.7mm, 0.5mm, 2000, 78  Weeks, 80"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cef2b67c-338e-48f6-b0d1-a4d0211e6b2e</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>4700 pF</value>
+      <datasheet>https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf</datasheet>
+      <fields>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C2012C0G2W472J125AA</field>
+        <field name="Mouser Part Number">810-C2012C0G2W472JAA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TDK/C2012C0G2W472J125AA?qs=Zt%252BKPUOg4odv1OfKcwMYww%3D%3D</field>
+      </fields>
+      <libsource lib="C2012" part="C2012C0G2W472J125AA" description="MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"/>
+      <property name="Height" value="1.45"/>
+      <property name="Mouser Part Number" value="810-C2012C0G2W472JAA"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TDK/C2012C0G2W472J125AA?qs=Zt%252BKPUOg4odv1OfKcwMYww%3D%3D"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C2012C0G2W472J125AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="test.kicad_sch"/>
+      <property name="ki_description" value="MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>53da47fb-f905-471c-b30c-41e5a3bfbf51</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>33 pF</value>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/lead-disc/catalog/leaddisc_commercial_cc45_en.pdf</datasheet>
+      <fields>
+        <field name="Height">9.5</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">CC45SL3JD330JYGNA</field>
+      </fields>
+      <libsource lib="CC45S" part="CC45SL3JD330JYGNA" description="Disc Type Capacitors with Lead (High Voltage Ceramic Capacitors), Capacitance=33pF, DxT: 7.5x6mm ,F: 7.5mm"/>
+      <property name="Height" value="9.5"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="CC45SL3JD330JYGNA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="test.kicad_sch"/>
+      <property name="ki_description" value="Disc Type Capacitors with Lead (High Voltage Ceramic Capacitors), Capacitance=33pF, DxT: 7.5x6mm ,F: 7.5mm"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df714c25-718e-4d49-adf1-f6fc526a3a35</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>33 pF</value>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/lead-disc/catalog/leaddisc_commercial_cc45_en.pdf</datasheet>
+      <fields>
+        <field name="Height">9.5</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">CC45SL3JD330JYGNA</field>
+      </fields>
+      <libsource lib="CC45S" part="CC45SL3JD330JYGNA" description="Disc Type Capacitors with Lead (High Voltage Ceramic Capacitors), Capacitance=33pF, DxT: 7.5x6mm ,F: 7.5mm"/>
+      <property name="Height" value="9.5"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="CC45SL3JD330JYGNA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="test.kicad_sch"/>
+      <property name="ki_description" value="Disc Type Capacitors with Lead (High Voltage Ceramic Capacitors), Capacitance=33pF, DxT: 7.5x6mm ,F: 7.5mm"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f320809-c1b8-46eb-90da-b169e387ebad</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>33 pF</value>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/lead-disc/catalog/leaddisc_commercial_cc45_en.pdf</datasheet>
+      <fields>
+        <field name="Height">9.5</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">CC45SL3JD330JYGNA</field>
+      </fields>
+      <libsource lib="CC45S" part="CC45SL3JD330JYGNA" description="Disc Type Capacitors with Lead (High Voltage Ceramic Capacitors), Capacitance=33pF, DxT: 7.5x6mm ,F: 7.5mm"/>
+      <property name="Height" value="9.5"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="CC45SL3JD330JYGNA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="test.kicad_sch"/>
+      <property name="ki_description" value="Disc Type Capacitors with Lead (High Voltage Ceramic Capacitors), Capacitance=33pF, DxT: 7.5x6mm ,F: 7.5mm"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>399a683a-c1f2-42fb-a778-ec223ad7fc12</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>33 pF</value>
+      <datasheet>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/lead-disc/catalog/leaddisc_commercial_cc45_en.pdf</datasheet>
+      <fields>
+        <field name="Height">9.5</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">CC45SL3JD330JYGNA</field>
+      </fields>
+      <libsource lib="CC45S" part="CC45SL3JD330JYGNA" description="Disc Type Capacitors with Lead (High Voltage Ceramic Capacitors), Capacitance=33pF, DxT: 7.5x6mm ,F: 7.5mm"/>
+      <property name="Height" value="9.5"/>
+      <property name="Mouser Part Number" value=""/>
+      <property name="Mouser Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="CC45SL3JD330JYGNA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="test.kicad_sch"/>
+      <property name="ki_description" value="Disc Type Capacitors with Lead (High Voltage Ceramic Capacitors), Capacitance=33pF, DxT: 7.5x6mm ,F: 7.5mm"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>29f47d0c-6055-4e60-87f8-92fd2975345e</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>4700 pF</value>
+      <datasheet>https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf</datasheet>
+      <fields>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C2012C0G2W472J125AA</field>
+        <field name="Mouser Part Number">810-C2012C0G2W472JAA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TDK/C2012C0G2W472J125AA?qs=Zt%252BKPUOg4odv1OfKcwMYww%3D%3D</field>
+      </fields>
+      <libsource lib="C2012" part="C2012C0G2W472J125AA" description="MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"/>
+      <property name="Height" value="1.45"/>
+      <property name="Mouser Part Number" value="810-C2012C0G2W472JAA"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TDK/C2012C0G2W472J125AA?qs=Zt%252BKPUOg4odv1OfKcwMYww%3D%3D"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C2012C0G2W472J125AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="test.kicad_sch"/>
+      <property name="ki_description" value="MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>395b1274-a8fe-499d-85f5-5152d33f8e30</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>4700 pF</value>
+      <datasheet>https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf</datasheet>
+      <fields>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C2012C0G2W472J125AA</field>
+        <field name="Mouser Part Number">810-C2012C0G2W472JAA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TDK/C2012C0G2W472J125AA?qs=Zt%252BKPUOg4odv1OfKcwMYww%3D%3D</field>
+      </fields>
+      <libsource lib="C2012" part="C2012C0G2W472J125AA" description="MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"/>
+      <property name="Height" value="1.45"/>
+      <property name="Mouser Part Number" value="810-C2012C0G2W472JAA"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TDK/C2012C0G2W472J125AA?qs=Zt%252BKPUOg4odv1OfKcwMYww%3D%3D"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C2012C0G2W472J125AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="test.kicad_sch"/>
+      <property name="ki_description" value="MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>521254a1-1d94-440b-887e-1e69bf8c740e</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>4700 pF</value>
+      <datasheet>https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf</datasheet>
+      <fields>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C2012C0G2W472J125AA</field>
+        <field name="Mouser Part Number">810-C2012C0G2W472JAA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TDK/C2012C0G2W472J125AA?qs=Zt%252BKPUOg4odv1OfKcwMYww%3D%3D</field>
+      </fields>
+      <libsource lib="C2012" part="C2012C0G2W472J125AA" description="MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"/>
+      <property name="Height" value="1.45"/>
+      <property name="Mouser Part Number" value="810-C2012C0G2W472JAA"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/TDK/C2012C0G2W472J125AA?qs=Zt%252BKPUOg4odv1OfKcwMYww%3D%3D"/>
+      <property name="Manufacturer_Name" value="TDK"/>
+      <property name="Manufacturer_Part_Number" value="C2012C0G2W472J125AA"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="test.kicad_sch"/>
+      <property name="ki_description" value="MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54eec1f3-70aa-4bff-af64-917020def86b</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>LQH32NH100J23L</value>
+      <fields>
+        <field name="MANUFACTURER">Murata</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.2mm</field>
+        <field name="PARTREV">N/A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="LQH32" part="LQH32NH100J23L" description=""/>
+      <property name="PARTREV" value="N/A"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="2.2mm"/>
+      <property name="MANUFACTURER" value="Murata"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="test.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5e165c14-8452-4306-b7f6-7137ca7085a5</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>FDA18N50</value>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/FDA18N50.pdf</datasheet>
+      <fields>
+        <field name="Height">5</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">FDA18N50</field>
+        <field name="Mouser Part Number">512-FDA18N50</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDA18N50?qs=fZj41zbgrf3mYLHPj%2FqPtA%3D%3D</field>
+      </fields>
+      <libsource lib="FDA18N50" part="FDA18N50" description="Trans MOSFET N-CH 500V 19A 3-Pin TO-3P"/>
+      <property name="Height" value="5"/>
+      <property name="Mouser Part Number" value="512-FDA18N50"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDA18N50?qs=fZj41zbgrf3mYLHPj%2FqPtA%3D%3D"/>
+      <property name="Manufacturer_Name" value="onsemi"/>
+      <property name="Manufacturer_Part_Number" value="FDA18N50"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="test.kicad_sch"/>
+      <property name="ki_description" value="Trans MOSFET N-CH 500V 19A 3-Pin TO-3P"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcc988d0-b0c8-4b89-b4a2-fd460d328c3c</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>CHP0805AFX-1001ELF</value>
+      <fields>
+        <field name="Height">0.6</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CHP0805AFX-1001ELF</field>
+        <field name="Mouser Part Number">652-CHP0805AFX1001EL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/CHP0805AFX-1001ELF?qs=BJlw7L4Cy7%2F%2FdiZX3l7oWQ%3D%3D</field>
+      </fields>
+      <libsource lib="CHP08" part="CHP0805AFX-1001ELF" description="BOURNS - CHP0805AFX-1001ELF - RES, AEC-Q200, 1K, 1%, 0.5W, 0805"/>
+      <property name="Height" value="0.6"/>
+      <property name="Mouser Part Number" value="652-CHP0805AFX1001EL"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Bourns/CHP0805AFX-1001ELF?qs=BJlw7L4Cy7%2F%2FdiZX3l7oWQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="CHP0805AFX-1001ELF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="test.kicad_sch"/>
+      <property name="ki_description" value="BOURNS - CHP0805AFX-1001ELF - RES, AEC-Q200, 1K, 1%, 0.5W, 0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7d57f73b-27ad-4e7c-a1a0-01e4a5e85d3e</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>CHP0805AFX-1001ELF</value>
+      <fields>
+        <field name="Height">0.6</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CHP0805AFX-1001ELF</field>
+        <field name="Mouser Part Number">652-CHP0805AFX1001EL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/CHP0805AFX-1001ELF?qs=BJlw7L4Cy7%2F%2FdiZX3l7oWQ%3D%3D</field>
+      </fields>
+      <libsource lib="CHP08" part="CHP0805AFX-1001ELF" description="BOURNS - CHP0805AFX-1001ELF - RES, AEC-Q200, 1K, 1%, 0.5W, 0805"/>
+      <property name="Height" value="0.6"/>
+      <property name="Mouser Part Number" value="652-CHP0805AFX1001EL"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Bourns/CHP0805AFX-1001ELF?qs=BJlw7L4Cy7%2F%2FdiZX3l7oWQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="CHP0805AFX-1001ELF"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="test.kicad_sch"/>
+      <property name="ki_description" value="BOURNS - CHP0805AFX-1001ELF - RES, AEC-Q200, 1K, 1%, 0.5W, 0805"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64d8131b-f864-432a-a283-4e0a6df33f99</tstamps>
+    </comp>
+    <comp ref="VR1">
+      <value>601030</value>
+      <datasheet>https://www.abelektronik.de/fileadmin/images/Produkte_und_Datenblaetter/Datenblaetter/Bauelemente/E_HA06.pdf</datasheet>
+      <fields>
+        <field name="Height">7.8</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">601030</field>
+        <field name="Mouser Part Number">581-601030</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/AVX/601030?qs=B6kkDfuK7%2FDwxok08zuurA%3D%3D</field>
+      </fields>
+      <libsource lib="601030" part="601030" description="Potentiometers Carbon Comp Flm Potentiometer"/>
+      <property name="Height" value="7.8"/>
+      <property name="Mouser Part Number" value="581-601030"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/AVX/601030?qs=B6kkDfuK7%2FDwxok08zuurA%3D%3D"/>
+      <property name="Manufacturer_Name" value="AVX"/>
+      <property name="Manufacturer_Part_Number" value="601030"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="test.kicad_sch"/>
+      <property name="ki_description" value="Potentiometers Carbon Comp Flm Potentiometer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>400e0608-25af-4c1a-9445-c5673543ce33</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="601030" part="601030">
+      <description>Potentiometers Carbon Comp Flm Potentiometer</description>
+      <docs>https://www.abelektronik.de/fileadmin/images/Produkte_und_Datenblaetter/Datenblaetter/Bauelemente/E_HA06.pdf</docs>
+      <fields>
+        <field name="Reference">VR</field>
+        <field name="Value">601030</field>
+        <field name="Footprint">601030</field>
+        <field name="Datasheet">https://www.abelektronik.de/fileadmin/images/Produkte_und_Datenblaetter/Datenblaetter/Bauelemente/E_HA06.pdf</field>
+        <field name="Height">7.8</field>
+        <field name="Mouser Part Number">581-601030</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/AVX/601030?qs=B6kkDfuK7%2FDwxok08zuurA%3D%3D</field>
+        <field name="Manufacturer_Name">AVX</field>
+        <field name="Manufacturer_Part_Number">601030</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CCW" type="passive"/>
+        <pin num="2" name="WIPER" type="passive"/>
+        <pin num="3" name="CW" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="C1210" part="C1210C105K1RACTM">
+      <description>SMD Comm X7R, Ceramic, 1 uF, 10%, 100 VDC, 250 VDC, 125C, -55C, X7R, SMD, MLCC, Temperature Stable, Class II, 2.5 % , 500 MOhms, 85 mg, 1210, 3.2mm, 2.5mm, 1.7mm, 0.5mm, 2000, 78  Weeks, 80</description>
+      <docs>https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C1210C105K1RACTM</field>
+        <field name="Footprint">C1210</field>
+        <field name="Datasheet">https://content.kemet.com/datasheets/KEM_C1002_X7R_SMD.pdf</field>
+        <field name="Mouser Part Number">80-C1210C105K1RACTM</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/KEMET/C1210C105K1RACTM?qs=gt1LBUVyoHkoe6sHAWmw2Q%3D%3D</field>
+        <field name="Manufacturer_Name">KEMET</field>
+        <field name="Manufacturer_Part_Number">C1210C105K1RACTM</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="C2012" part="C2012C0G2W472J125AA">
+      <description>MULTILAYER CERAMIC CHIP CAPACITORS, 2012, Commercial grade, general (Up to 75V)</description>
+      <docs>https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C2012C0G2W472J125AA</field>
+        <field name="Footprint">CAPC2012X145N</field>
+        <field name="Datasheet">https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_midvoltage_en.pdf</field>
+        <field name="Height">1.45</field>
+        <field name="Mouser Part Number">810-C2012C0G2W472JAA</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/TDK/C2012C0G2W472J125AA?qs=Zt%252BKPUOg4odv1OfKcwMYww%3D%3D</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">C2012C0G2W472J125AA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CC45S" part="CC45SL3JD330JYGNA">
+      <description>Disc Type Capacitors with Lead (High Voltage Ceramic Capacitors), Capacitance=33pF, DxT: 7.5x6mm ,F: 7.5mm</description>
+      <docs>https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/lead-disc/catalog/leaddisc_commercial_cc45_en.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CC45SL3JD330JYGNA</field>
+        <field name="Footprint">CC45SL3JD330JYGNA</field>
+        <field name="Datasheet">https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/lead-disc/catalog/leaddisc_commercial_cc45_en.pdf</field>
+        <field name="Height">9.5</field>
+        <field name="Manufacturer_Name">TDK</field>
+        <field name="Manufacturer_Part_Number">CC45SL3JD330JYGNA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="CHP08" part="CHP0805AFX-1001ELF">
+      <description>BOURNS - CHP0805AFX-1001ELF - RES, AEC-Q200, 1K, 1%, 0.5W, 0805</description>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">CHP0805AFX-1001ELF</field>
+        <field name="Footprint">RESC2012X60N</field>
+        <field name="Height">0.6</field>
+        <field name="Mouser Part Number">652-CHP0805AFX1001EL</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Bourns/CHP0805AFX-1001ELF?qs=BJlw7L4Cy7%2F%2FdiZX3l7oWQ%3D%3D</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">CHP0805AFX-1001ELF</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="FDA18N50" part="FDA18N50">
+      <description>Trans MOSFET N-CH 500V 19A 3-Pin TO-3P</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/FDA18N50.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">FDA18N50</field>
+        <field name="Footprint">TO545P500X1580X2420-3P</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/FDA18N50.pdf</field>
+        <field name="Height">5</field>
+        <field name="Mouser Part Number">512-FDA18N50</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/FDA18N50?qs=fZj41zbgrf3mYLHPj%2FqPtA%3D%3D</field>
+        <field name="Manufacturer_Name">onsemi</field>
+        <field name="Manufacturer_Part_Number">FDA18N50</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LQH32" part="LQH32NH100J23L">
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">LQH32NH100J23L</field>
+        <field name="Footprint">IND_LQH32NH100J23L</field>
+        <field name="PARTREV">N/A</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">2.2mm</field>
+        <field name="MANUFACTURER">Murata</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="601030">
+      <uri>/home/mrglade/Desktop/plasma toroid/601030/KiCad/601030.kicad_sym</uri>
+    </library>
+    <library logical="C1210">
+      <uri>/home/mrglade/Desktop/plasma toroid/C1210C105K1RACTM/KiCad/C1210C105K1RACTM.kicad_sym</uri>
+    </library>
+    <library logical="C2012">
+      <uri>/home/mrglade/Desktop/plasma toroid/C2012C0G2W472J125AA/KiCad/C2012C0G2W472J125AA.kicad_sym</uri>
+    </library>
+    <library logical="CC45S">
+      <uri>/home/mrglade/Desktop/plasma toroid/CC45SL3JD330JYGNA/KiCad/CC45SL3JD330JYGNA.kicad_sym</uri>
+    </library>
+    <library logical="CHP08">
+      <uri>/home/mrglade/Desktop/plasma toroid/CHP0805AFX-1001ELF/KiCad/CHP0805AFX-1001ELF.kicad_sym</uri>
+    </library>
+    <library logical="FDA18N50">
+      <uri>/home/mrglade/Desktop/plasma toroid/FDA18N50/KiCad/FDA18N50.kicad_sym</uri>
+    </library>
+    <library logical="LQH32">
+      <uri>/home/mrglade/Desktop/plasma toroid/LQH32NH100J23L.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+VDC">
+      <node ref="C1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L2" pin="1" pintype="passive"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="2" name="-VDC">
+      <node ref="C1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="VR1" pin="3" pinfunction="CW" pintype="passive"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(Q1-D)">
+      <node ref="L2" pin="2" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(Q1-G)">
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(VR1-CCW)">
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="VR1" pin="1" pinfunction="CCW" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(VR1-WIPER)">
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="VR1" pin="2" pinfunction="WIPER" pintype="passive"/>
+    </net>
+  </nets>
+</export>
