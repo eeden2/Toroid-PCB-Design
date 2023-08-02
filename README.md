@@ -1,12 +1,14 @@
 
 # Plasma Toroid Schematic Design
 
-__Currently, this PCB is in the DESIGN and TESTING Stages__
+__Currently, this PCB is in the TESTING Stages__
 
 Based off of the Circuit from [Steve Ward](https://docs.google.com/document/d/1AyaO-RaTiaOmyT3-89UxPdrMHEBCCrxb1irZKsVMg_8/edit) and [BackMacSci's Video](https://www.youtube.com/watch?v=GbMAvn7nRWo), I decided to make my own PCB Design for the Circuit.
 
 __All Ideas to the Papers Are Linked Below__
 
+# 3-D View:
+![Screenshots/3DView.png](https://github.com/eeden2/Toroid-PCB-Design/blob/542490b17008c17f6380b092bdf3980f9b77fa37/Screenshots/3DView.png)
 
 # The Parts are as Follows:
 
@@ -14,7 +16,9 @@ __All Ideas to the Papers Are Linked Below__
 
 - __16 AWG copper wire or ¼” copper tubing (1 uH inductor)__
 
-- __20-26 AWG copper wire (10 uH inductor)__
+- __20-26 AWG copper wire (10 uH inductor) OR__
+
+        (Mouser #:  81-LQH32NH100J23L; Mfr. #: LQH32NH100J23L )
 
 - __2, 0.5W 1k resistors__
 
@@ -22,7 +26,7 @@ __All Ideas to the Papers Are Linked Below__
 
 - __10k potentiometer__
 
-        (Mouser #: 652-91R1A-R22-B15L; Mfr. #: 91R1A-R22-B15L )
+        (Mouser #:  581-601030; Mfr. #: 601030 )
 
 - __100V, 1uF capacitor__
 
@@ -49,4 +53,7 @@ __All Ideas to the Papers Are Linked Below__
 - __Borosilicate glass globe filled with 15 torr xenon gas__
 
 - __Oscilloscope, multimeter, soldering iron__
+
+# PCB:
+![Screenshots/PCB.png](https://github.com/eeden2/Toroid-PCB-Design/blob/542490b17008c17f6380b092bdf3980f9b77fa37/Screenshots/PCB.png)
 
